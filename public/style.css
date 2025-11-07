@@ -1,0 +1,29 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #fff;
+}
+
+.hero-section {
+  background: linear-gradient(to right, #c31432, #240b36);
+  color: white;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+input, select {
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.btn-danger {
+  border-radius: 8px;
+  transition: 0.3s;
+}
+
+.btn-danger:hover {
+  transform: scale(1.05);
+}
