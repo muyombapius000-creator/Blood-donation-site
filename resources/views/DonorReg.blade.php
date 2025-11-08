@@ -199,7 +199,7 @@
                 <label for="name" class="form-label required-field">Full Name</label>
                 <div class="input-group">
                   <span class="input-group-text"><i class="fas fa-user"></i></span>
-                  <input type="text" class="form-control" id="name" placeholder="John Doe" required name="fname" pattern="[A-Za-z\s]+" minlength="3">
+                  <input type="text" class="form-control" id="name" placeholder="Muyomba Pius" required name="fname" pattern="[A-Za-z\s]+" minlength="3">
                   <div class="invalid-feedback">
                     Please enter a valid name (letters and spaces only).
                   </div>
